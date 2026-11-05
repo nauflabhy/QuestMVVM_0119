@@ -1,5 +1,7 @@
 package com.example.prak8.view
 
+import androidx.compose.runtime.Composable
+
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun FormSiswa(
